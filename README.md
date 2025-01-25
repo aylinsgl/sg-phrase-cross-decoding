@@ -2,7 +2,8 @@ Code and data repository for the preprint titled ["Object representations reflec
 
 ## About
 
-Epoched data is stored in data/SceneGrammarEEG.zip
+Epoched data can be downloaded [here](https://www.dropbox.com/scl/fi/001hjyw0r9lf6ezuynv5t/Archive.zip?rlkey=xhmini6w1xg30rjqvbh7u1xe5&st=lqpvfcra&dl=0)
+
 Once downloaded and unzipped you have access to eeg epoch and ica files for each participant:
 
     .
