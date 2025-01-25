@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.0
+Summary: Codebase for 'Object representations reflect hierarchical scene structure and depend on high-level visual, semantic, and action information'
+Home-page: https://osf.io/fb3sj/
+Author: Aylin Kallmayer
+Requires-Dist: tqdm
+Requires-Dist: numpy
+Requires-Dist: mne
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: scipy
+Requires-Dist: pingouin
+Requires-Dist: statsmodels
+Requires-Dist: scikit-learn
+Requires-Dist: autoreject
+Requires-Dist: opencv-python
+Requires-Dist: scikit-image

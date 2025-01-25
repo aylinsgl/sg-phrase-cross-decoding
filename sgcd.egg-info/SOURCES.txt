@@ -1,0 +1,12 @@
+README.md
+setup.py
+sgcd/__init__.py
+sgcd/config.py
+sgcd/decoding.py
+sgcd/preprocessing.py
+sgcd/rsa.py
+sgcd.egg-info/PKG-INFO
+sgcd.egg-info/SOURCES.txt
+sgcd.egg-info/dependency_links.txt
+sgcd.egg-info/requires.txt
+sgcd.egg-info/top_level.txt

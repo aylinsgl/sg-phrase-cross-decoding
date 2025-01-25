@@ -1,0 +1,13 @@
+tqdm
+numpy
+mne
+matplotlib
+pandas
+scipy
+pingouin
+statsmodels
+scikit-learn
+autoreject
+opencv-python
+scikit-image
+jupyter
